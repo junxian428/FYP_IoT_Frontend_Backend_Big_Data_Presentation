@@ -9,9 +9,13 @@ Part 2- IoT:
 
 https://www.powtoon.com/ws/bunDvsNF7s3/1/m
 
+https://youtu.be/xcKffaMgRs8
+
 Part 3- MVC Spring Boot + Spring Security + Microsoft Azure + Thymeleaf (Without separation between frontend nand backend)
 
 https://www.powtoon.com/ws/bfmzcte5AJx/1/m
+
+https://youtu.be/FCjyv7K0KWo
 
 Part 4- Spring Cloud + Flutter + JS
 
@@ -20,6 +24,8 @@ https://www.powtoon.com/ws/fBOGzEX2O1g/1/m
 Part 5- Big Data
 
 https://www.powtoon.com/ws/ctZnJP1Qmtq/1/m
+
+https://youtu.be/va3Cj7RH2ME
 
 ____________________________________________________________________________________________
 
