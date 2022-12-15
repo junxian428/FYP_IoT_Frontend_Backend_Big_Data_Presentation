@@ -20,3 +20,36 @@ https://www.powtoon.com/ws/fBOGzEX2O1g/1/m
 Part 5- Big Data
 
 https://www.powtoon.com/ws/ctZnJP1Qmtq/1/m
+
+____________________________________________________________________________________________
+
+Dear DIP Project 1 / Project 2 / Project 2022C students,
+
+
+Congratulation on completing your FYP2/ Project / Project2.
+
+
+To do task for RICE'23
+
+	
+Prepare poster template based on the given template. Please remember to show your supervisor
+
+	
+Screen recording a 3-5 minutes prototype of your system/ research work. Upload to Youtube as unlisted
+
+	
+Register on Registration | Rice Exhibition Competition (sucfeit.org). 
+	
+  
+Regarding the payment, the promo code is your student ID and remember to select Category 3 tertiary education
+
+	
+Remember to fill in the correct information with your name as per identity card (IC).
+
+	
+Any typo error of your detail will affect your report marks.
+
+Please feel free to contact your supervisor or me for further assistance.
+
+
+
