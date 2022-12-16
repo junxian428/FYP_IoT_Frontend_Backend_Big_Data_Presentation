@@ -15,6 +15,7 @@ Part 2.5- 3D Modelling (Fusion 360) and PCB Design (Altium Designer)
 
 https://www.powtoon.com/s/dObFSaQjUzX/1/m/s
 
+https://youtube.com/shorts/jSw-oF0WZec?feature=share
 
 Part 3- MVC Spring Boot + Spring Security + Microsoft Azure + Thymeleaf (Without separation between frontend nand backend)
 
