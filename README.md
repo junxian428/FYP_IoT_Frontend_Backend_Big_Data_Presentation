@@ -23,9 +23,11 @@ https://www.powtoon.com/ws/bfmzcte5AJx/1/m
 
 https://youtu.be/FCjyv7K0KWo
 
-Part 4- Spring Cloud + Flutter + JS
+Part 4- Spring Cloud + (Flutter + JS no time to implement, sorry )
 
 https://www.powtoon.com/ws/fBOGzEX2O1g/1/m
+
+https://youtu.be/Y9FEOQCt3oA
 
 Part 5- Big Data
 
