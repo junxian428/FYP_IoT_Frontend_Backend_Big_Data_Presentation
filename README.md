@@ -1,9 +1,16 @@
 # FYP_IoT_Frontend_Backend_Big_Data_Presentation
 
+![image](https://raw.githubusercontent.com/junxian428/FYP_IoT_Frontend_Backend_Big_Data_Presentation/main/IoT_SmartFactory.png)
+
+Completed Version:
+
+https://youtu.be/vtVXtayVOHA
 
 Part 1 - Introduction:
 
 https://www.powtoon.com/ws/cNZCT42gItp/1/m
+
+https://youtu.be/Ilkij8Uym0M
 
 Part 2- IoT:
 
