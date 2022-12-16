@@ -1,6 +1,6 @@
 # FYP_IoT_Frontend_Backend_Big_Data_Presentation
 
-![image](https://raw.githubusercontent.com/junxian428/FYP_IoT_Frontend_Backend_Big_Data_Presentation/main/IoT_SmartFactory.png)
+![image](https://raw.githubusercontent.com/junxian428/FYP_IoT_Frontend_Backend_Big_Data_Presentation/main/IoT_SmartFactory_V3.png)
 
 Completed Version:
 
