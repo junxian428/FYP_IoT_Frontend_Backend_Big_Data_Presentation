@@ -1,6 +1,6 @@
 # FYP_IoT_Frontend_Backend_Big_Data_Presentation
 
-![image](https://raw.githubusercontent.com/junxian428/FYP_IoT_Frontend_Backend_Big_Data_Presentation/main/IoT_SmartFactory_V4.png)
+![image](https://raw.githubusercontent.com/junxian428/FYP_IoT_Frontend_Backend_Big_Data_Presentation/main/IoT_SmartFactory_V5.png)
 
 Completed Version:
 
@@ -30,7 +30,7 @@ https://www.powtoon.com/ws/bfmzcte5AJx/1/m
 
 https://youtu.be/FCjyv7K0KWo
 
-Part 4- Spring Cloud + (Flutter + JS no time to implement, sorry )
+Part 4- Spring Cloud + (Flutter + JS  )
 
 https://www.powtoon.com/ws/fBOGzEX2O1g/1/m
 
