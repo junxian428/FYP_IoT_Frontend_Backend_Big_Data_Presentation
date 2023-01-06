@@ -6,6 +6,10 @@ Completed Version:
 
 https://youtu.be/vtVXtayVOHA
 
+Live Version:
+
+https://youtu.be/TLkf7prFGxs
+
 Part 1 - Introduction:
 
 https://www.powtoon.com/ws/cNZCT42gItp/1/m
